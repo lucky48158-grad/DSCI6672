@@ -1,10 +1,14 @@
-# DSCI6672
-AI &amp; Cybersecurity
+DSCI6672
+AI & Cybersecurity
 
-Hello and welcome to the main landing page for my GitHub.  I am a graduate student at the University of New Haven in Connecticut and working towards my masters degree in Cybersecurity.  As part of my graduate projects for my Data Science class, I'll be posting my code in branches corresponding to each one of our assignments.
+LAOISE LUCIANO - PHISHING MACHINE LEARNING
 
-Please visit the following branches to view the different topics below:
+March 5, 2020
 
-[LAB2](https://github.com/lucky48158-grad/DSCI6672/tree/Lab-2) - Phishing Dataset using a single-layer Perceptron
+This was a project for my AI Cybersecurity class during the Spring 2020 Semester at the University of New Haven.
 
-[LAB3](https://github.com/lucky48158-grad/DSCI6672/tree/Lab-3) - Logistic Regression and SVM
+Our objective was to examine two different models.  Logistic Regression on a phishing dataset and SVM on a spam dataset.
+
+The logistic regression model ended up showing Accuracy: 92.33, Precision: 91.79 and 94.46 and was a great model for this type of data.
+
+The model using SVM had accuracy of 84% with 6 misclassified samples.  Although the final accuracy of the model was above 75% and is still considered a "good" model, I could not get the accuracy to improve based on the data that was given.
