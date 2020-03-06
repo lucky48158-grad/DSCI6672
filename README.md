@@ -6,4 +6,5 @@ Hello and welcome to the main landing page for my GitHub.  I am a graduate stude
 Please visit the following branches to view the different topics below:
 
 [LAB2](https://github.com/lucky48158-grad/DSCI6672/tree/Lab-2) - Phishing Dataset using a single-layer Perceptron
+
 [LAB3](https://github.com/lucky48158-grad/DSCI6672/tree/Lab-3) - Logistic Regression and SVM
